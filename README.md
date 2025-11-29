@@ -1,2 +1,3 @@
 # WishlistApp
-Minimal Wishlist app demo repo for Git fork/PR workflow
+This wish list app tracks items using Supabase for persistence.
+
